@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0dOPMDsKd/hUpzkINSxNAuOMDBUkZJ2rfz3dEtgNy5aEZpO1oRaJO4obJux9b1/ZfRWUzlD3eigd85ohqnGVyw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\C#\\Convertor\\Convertor\\Convertor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denol\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
